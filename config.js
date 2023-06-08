@@ -1,20 +1,10 @@
 const CONFIG = {
-    titleWeb: "Gửi crush của tớ",
-    introTitle: 'Crush yêu dấu',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Thoát web là chấp nhận yêu tớ rồi nhé!!!',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me' //link mess của các bạn. VD: /dinhkaito
-}
+    titleWeb: "Gửi embecuti của tớ",
+    introTitle: ' embecuti của tớ ơi',
+    introDesc: `có vài lời tâm thư anh muốn
+    nói nee anh rất thưn em, mong em hhong bỏ
+    anh, trong t.y á thì đôi lúc sẽ có 1 ng chán
+    mqh nma nếu em thấy chán thì 2 ta sẽ làm nó hết chán
+    mà em có chiện gi thì nói với anh nha anh nghe ne đừng
+    có đợi sau này roi nói. À thì có thể lời văn anh hong 
+    hay nma đó là vài lời anh muốn gửi đến em.ILOVEYOU:3',
